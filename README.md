@@ -1,2 +1,2 @@
-# Regata-Solar-2016-Rosalía-de-Castro
+# Regata-Solar-2026-Rosalía-de-Castro
 Documentación de proyecto de la Regata Solar 
